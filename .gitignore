@@ -1,3 +1,4 @@
-.DS_Score
+.DS_Store
 .idea/
 dailyScala.iml
+out/
